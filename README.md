@@ -27,7 +27,7 @@ Alternatively, to run this project on your local system, follow the steps below:
 
 1.  **Clone the repository:**
     
-    git clone [https://github.com/Amangupta87410/tictactoigame.git](https://github.com/Amangupta87410/tictactoigame.git)
+    https://github.com/Amangupta87410/Tic-tac-toe-game-/tree/main
 
     
 2.  **Navigate to the project directory:**
